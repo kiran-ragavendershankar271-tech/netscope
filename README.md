@@ -2,7 +2,7 @@
 
 A command-line network traffic analyzer that captures live packets via Wireshark (tshark), parses PCAP files and web server logs, and generates clean visual reports.
 
-Built in Python. No fluff, just signal.
+Built in Python.
 
 ---
 
